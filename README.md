@@ -1,4 +1,4 @@
-# untitled5
+# Image-resizer-and-compressor
 
 A new Flutter project.
 
